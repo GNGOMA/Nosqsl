@@ -4,6 +4,6 @@ Ce dépôt contient les fichiers PDF des comptes-rendus de Travaux Pratiques (TP
 
 ## Contenu
 Vous y trouverez les rapports concernant :
-* MongoDB (Réplication, Sharding, CRUD)
+* MongoDB (Réplication, Sharding, CRUD, Mapreduce)
 * Redis (Structures de données, Pub/Sub)
   
